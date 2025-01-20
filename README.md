@@ -43,6 +43,8 @@ If you are not using chrome or you don't want to install it from the Chrome Web 
 
 4. Click the **Load unpacked extension** button and select the folder **extension**.
 
+5. if it doesn't load hit refresh 
+
 ### Firefox
 
 NOTE: If you are using Firefox version < 109 the extension won't work for you
