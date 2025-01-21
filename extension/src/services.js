@@ -83,7 +83,7 @@ globalThis.getServices = (query, imdbID, tmdbID) => [
   },
    {
     name: "vidbinge",
-    url: `https://sudo-flix.lol/media/tmdb-movie-${imdbID}-${query}`,
+    url: `https://sudo-flix.lol/media/tmdb-tv-${imdbID}-${query}`,
     icon: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEwiIyoiIyoiIyoOHR43LDliPlryhc19S2/TdbQAGRXogMXaebrqgcbCbabPc7HrgcfL4Qr0AAAAA3RSTlMAl/qZHsMBAAAAtklEQVR4AX3TVRbDMBBDUbPGlHT/q61bFVRI5veeFzA450P8O8Evi4fjXTjG4OLJfGLK6RBTgam6T6uxJUU19DKsCWqXByaoROm2ts/e3+qkM8xlN02C7KyNu/U5GtW9ug3jQkOJlog05DYnbR+9Ir8wo/axP2y2DBQpLRbQLgNbpRGXyrcYaES24DNh7BTjCpbtbWOnSJ0YWTrBpaN07RRjapGdoKipKeopUTyc86N5eqjPrsMVl54OPQi//jYAAAAASUVORK5CYII=",
   },
   {
