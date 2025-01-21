@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Serializd Services",
-  "description": "Serializd extension that provides you torrents for shows.",
+  "description": "Serializd extension that provides you Services for shows.",
   "version": "0.6.5",
   "icons": {
     "16": "icons/icon16.png",
